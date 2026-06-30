@@ -1,9 +1,5 @@
 ## Employee Profile Management Portal
 
-### Developer
-**Name:** K Aravind  
-**Employee ID:** BR26PY9906A
-
 ### Project Overview
 
 Employee Profile Management Portal is a Django web application for managing employee records. It supports CRUD operations, profile image upload, validation, search, filtering, and pagination.
